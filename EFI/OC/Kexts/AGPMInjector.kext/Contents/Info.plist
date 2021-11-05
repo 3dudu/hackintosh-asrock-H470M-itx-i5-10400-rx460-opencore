@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>20A241115</string>
+	<string>20A241123</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleGetInfoString</key>
@@ -21,7 +21,7 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>122.1</string>
+	<string>127</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>AGPM</key>
@@ -36,9 +36,9 @@
 			<string>IOPlatformPluginDevice</string>
 			<key>Machines</key>
 			<dict>
-				<key>iMac19,1</key>
+				<key>iMac20,1</key>
 				<dict>
-					<key>Vendor1002Device67ff</key>
+					<key>Vendor1002Device73ff</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
